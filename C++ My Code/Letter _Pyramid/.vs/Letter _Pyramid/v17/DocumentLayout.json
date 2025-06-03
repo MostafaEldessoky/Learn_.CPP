@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameDev\\Learn C\u002B\u002B\\Letter _Pyramid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4CD675-F911-4BE1-8E89-7C993985E781}|Letter _Pyramid.vcxproj|D:\\GameDev\\Learn C\u002B\u002B\\Letter _Pyramid\\Letter _Pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B4CD675-F911-4BE1-8E89-7C993985E781}|Letter _Pyramid.vcxproj|solutionrelative:Letter _Pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Letter _Pyramid.cpp",
+              "DocumentMoniker": "D:\\GameDev\\Learn C\u002B\u002B\\Letter _Pyramid\\Letter _Pyramid.cpp",
+              "RelativeDocumentMoniker": "Letter _Pyramid.cpp",
+              "ToolTip": "D:\\GameDev\\Learn C\u002B\u002B\\Letter _Pyramid\\Letter _Pyramid.cpp",
+              "RelativeToolTip": "Letter _Pyramid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T19:12:02.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

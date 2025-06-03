@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\STL\u0026Lamdbda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5DF91-4FD6-48E3-9DA8-A44303599CFA}|STL\u0026Lamdbda.vcxproj|D:\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\STL\u0026Lamdbda\\MapText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2B5DF91-4FD6-48E3-9DA8-A44303599CFA}|STL\u0026Lamdbda.vcxproj|solutionrelative:MapText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5DF91-4FD6-48E3-9DA8-A44303599CFA}|STL\u0026Lamdbda.vcxproj|D:\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\STL\u0026Lamdbda\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2B5DF91-4FD6-48E3-9DA8-A44303599CFA}|STL\u0026Lamdbda.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B5DF91-4FD6-48E3-9DA8-A44303599CFA}|STL\u0026Lamdbda.vcxproj|D:\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\STL\u0026Lamdbda\\Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2B5DF91-4FD6-48E3-9DA8-A44303599CFA}|STL\u0026Lamdbda.vcxproj|solutionrelative:Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Input.txt",
+              "DocumentMoniker": "D:\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\STL\u0026Lamdbda\\Input.txt",
+              "RelativeDocumentMoniker": "Input.txt",
+              "ToolTip": "D:\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\STL\u0026Lamdbda\\Input.txt",
+              "RelativeToolTip": "Input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-03T23:12:27.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\STL\u0026Lamdbda\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "D:\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\STL\u0026Lamdbda\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-03T23:05:39.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapText.cpp",
+              "DocumentMoniker": "D:\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\STL\u0026Lamdbda\\MapText.cpp",
+              "RelativeDocumentMoniker": "MapText.cpp",
+              "ToolTip": "D:\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\STL\u0026Lamdbda\\MapText.cpp",
+              "RelativeToolTip": "MapText.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-03T20:27:44.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

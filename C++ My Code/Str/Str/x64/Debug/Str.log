@@ -1,0 +1,5 @@
+﻿  MyString.cpp
+D:\GameDev\Learn C++\Str\MyString.cpp(48,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Str.vcxproj -> D:\GameDev\Learn C++\Str\x64\Debug\Str.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameDev\\Learn C\u002B\u002B\\Stars_formater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF9C4F7-21B1-44BD-A97C-92E955B4893B}|Stars_formater.vcxproj|D:\\GameDev\\Learn C\u002B\u002B\\Stars_formater\\Stars_formater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BF9C4F7-21B1-44BD-A97C-92E955B4893B}|Stars_formater.vcxproj|solutionrelative:Stars_formater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stars_formater.cpp",
+              "DocumentMoniker": "D:\\GameDev\\Learn C\u002B\u002B\\Stars_formater\\Stars_formater.cpp",
+              "RelativeDocumentMoniker": "Stars_formater.cpp",
+              "ToolTip": "D:\\GameDev\\Learn C\u002B\u002B\\Stars_formater\\Stars_formater.cpp*",
+              "RelativeToolTip": "Stars_formater.cpp*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwD4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T19:10:03.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
