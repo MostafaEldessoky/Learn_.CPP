@@ -1,0 +1,21 @@
+﻿  Source.cpp
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Heap\Heap\Src\Heap.h(34,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Src/Source.cpp')
+      D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Heap\Heap\Src\Heap.h(34,12):
+      the template instantiation context (the oldest one first) is
+          D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Heap\Heap\Src\Source.cpp(7,12):
+          see reference to class template instantiation 'Heap<int>' being compiled
+          D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Heap\Heap\Src\Heap.h(31,39):
+          while compiling class template member function 'void Heap<int>::insert(t)'
+          with
+          [
+              t=int
+          ]
+              D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Heap\Heap\Src\Source.cpp(9,13):
+              see the first reference to 'Heap<int>::insert' in 'main'
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Heap\Heap\Src\Heap.h(35,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Src/Source.cpp')
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Heap\Heap\Src\Heap.h(139): warning C4715: 'Heap<int>::remove': not all control paths return a value
+  Heap.vcxproj -> D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Heap\bin\x64\Debug\Heap.exe

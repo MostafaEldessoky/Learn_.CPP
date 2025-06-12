@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dadfb874-2fed-4f5c-9a1e-e3c3c8adb0e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/CopilotIndices/17.14.698.11175/CodeChunks.db" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/CopilotIndices/17.14.698.11175/CodeChunks.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/CopilotIndices/17.14.698.11175/SemanticSymbols.db" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/CopilotIndices/17.14.698.11175/SemanticSymbols.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/FileContentIndex/7397f3bf-459a-4c33-9c17-584d81bb3656.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/FileContentIndex/8eac5501-4e52-4186-9f8c-96775b5d0593.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/.vs/STL&amp;Lamdbda/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/MapText.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/MapText.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/MapText.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/MapText.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.log" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/Source.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/Source.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/STL&amp;Lamdbda/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/Source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/Source.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../STL&amp;Lamdbda/x64/Debug/STL&amp;Lamdbda.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2y5zJDlRg2ngLgBx0P4mdWJCt6M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Source.cpp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/GameDev/Learn C++/C++ My Code/VigenereCipher",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Source.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="VigenereCipher" TARGET_NAME="Source.cpp" CONFIG_NAME="Source.cpp">
+      <option name="sourceFile" value="Source.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.Source.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dadfb874-2fed-4f5c-9a1e-e3c3c8adb0e3" name="Changes" comment="" />
+      <created>1749139148768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749139148768</updated>
+      <workItem from="1749139149755" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

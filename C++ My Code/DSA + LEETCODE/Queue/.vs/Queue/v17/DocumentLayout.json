@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\DSA \u002B LEETCODE\\Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A6B2F9-A096-40DB-AC92-F16702B3A36F}|Queue\\Queue.vcxproj|D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\DSA \u002B LEETCODE\\Queue\\Queue\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2A6B2F9-A096-40DB-AC92-F16702B3A36F}|Queue\\Queue.vcxproj|solutionrelative:Queue\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A6B2F9-A096-40DB-AC92-F16702B3A36F}|Queue\\Queue.vcxproj|D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\DSA \u002B LEETCODE\\Queue\\Queue\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2A6B2F9-A096-40DB-AC92-F16702B3A36F}|Queue\\Queue.vcxproj|solutionrelative:Queue\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A6B2F9-A096-40DB-AC92-F16702B3A36F}|Queue\\Queue.vcxproj|D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\DSA \u002B LEETCODE\\Queue\\Queue\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2A6B2F9-A096-40DB-AC92-F16702B3A36F}|Queue\\Queue.vcxproj|solutionrelative:Queue\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue.h",
+              "DocumentMoniker": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\DSA \u002B LEETCODE\\Queue\\Queue\\Queue.h",
+              "RelativeDocumentMoniker": "Queue\\Queue.h",
+              "ToolTip": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\DSA \u002B LEETCODE\\Queue\\Queue\\Queue.h",
+              "RelativeToolTip": "Queue\\Queue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T17:12:31.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.h",
+              "DocumentMoniker": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\DSA \u002B LEETCODE\\Queue\\Queue\\Node.h",
+              "RelativeDocumentMoniker": "Queue\\Node.h",
+              "ToolTip": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\DSA \u002B LEETCODE\\Queue\\Queue\\Node.h",
+              "RelativeToolTip": "Queue\\Node.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T17:12:22.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\DSA \u002B LEETCODE\\Queue\\Queue\\Source.cpp",
+              "RelativeDocumentMoniker": "Queue\\Source.cpp",
+              "ToolTip": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\DSA \u002B LEETCODE\\Queue\\Queue\\Source.cpp",
+              "RelativeToolTip": "Queue\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T17:12:13.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

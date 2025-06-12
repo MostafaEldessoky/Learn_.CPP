@@ -1,0 +1,41 @@
+﻿  Source.cpp
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Sort.h(31,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Src/Source.cpp')
+      D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Sort.h(31,8):
+      the template instantiation context (the oldest one first) is
+          D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Source.cpp(6,16):
+          see reference to class template instantiation 'sort<int,5>' being compiled
+          D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Sort.h(30,48):
+          while compiling class template member function 'std::array<T,5> &sort<T,5>::bubble_sort(void)'
+          with
+          [
+              T=int
+          ]
+              D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Source.cpp(7,16):
+              see the first reference to 'sort<int,5>::bubble_sort' in 'main'
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Sort.h(32,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Src/Source.cpp')
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Sort.h(46,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Src/Source.cpp')
+      D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Sort.h(46,13):
+      the template instantiation context (the oldest one first) is
+          D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Source.cpp(10,16):
+          see reference to class template instantiation 'sort<int,9>' being compiled
+          D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Sort.h(45,51):
+          while compiling class template member function 'std::array<T,9> &sort<T,9>::selection_sort(void)'
+          with
+          [
+              T=int
+          ]
+              D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Source.cpp(11,19):
+              see the first reference to 'sort<int,9>::selection_sort' in 'main'
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Sort.h(47,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Src/Source.cpp')
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\Basic Sorts\Src\Sort.h(48,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Src/Source.cpp')
+  
+  Basic Sorts.vcxproj -> D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\Basic Sorts\bin\x64\Debug\Basic Sorts.exe

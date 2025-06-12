@@ -1,0 +1,36 @@
+﻿  Source.cpp
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(83,8): warning C4552: '-': result of expression not used
+  (compiling source file 'Source.cpp')
+      D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(83,8):
+      the template instantiation context (the oldest one first) is
+          D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\Source.cpp(23,29):
+          see reference to class template instantiation 'LinkNodes<int>' being compiled
+          D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(80,48):
+          while compiling class template member function 'LinkNodes<int> &LinkNodes<int>::Append(int)'
+              D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\Source.cpp(30,14):
+              see the first reference to 'LinkNodes<int>::Append' in 'main'
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(89,8): warning C4552: '-': result of expression not used
+  (compiling source file 'Source.cpp')
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(95,7): warning C4552: '-': result of expression not used
+  (compiling source file 'Source.cpp')
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(104,8): warning C4552: '-': result of expression not used
+  (compiling source file 'Source.cpp')
+      D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(104,8):
+      the template instantiation context (the oldest one first) is
+          D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(101,49):
+          while compiling class template member function 'LinkNodes<int> &LinkNodes<int>::Prepend(int)'
+              D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\Source.cpp(26,15):
+              see the first reference to 'LinkNodes<int>::Prepend' in 'main'
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(110,8): warning C4552: '-': result of expression not used
+  (compiling source file 'Source.cpp')
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(116,7): warning C4552: '-': result of expression not used
+  (compiling source file 'Source.cpp')
+  
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(142): warning C4715: 'LinkNodes<int>::DeleteFirst': not all control paths return a value
+D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\LinkedList\LinkedNodes.h(195): warning C4715: 'LinkNodes<int>::get': not all control paths return a value
+  LinkedList.vcxproj -> D:\Programming\GameDev\Learn C++\C++ My Code\DSA + LEETCODE\LinkedList\x64\Debug\LinkedList.exe
