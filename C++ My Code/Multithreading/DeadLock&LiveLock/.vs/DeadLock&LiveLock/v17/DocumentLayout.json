@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\DeadLock\u0026LiveLock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E81CE5-BFAE-4A01-9D57-96546C4CA7D6}|DeadLock\u0026LiveLock\\DeadLock\u0026LiveLock.vcxproj|D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\DeadLock\u0026LiveLock\\DeadLock\u0026LiveLock\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0E81CE5-BFAE-4A01-9D57-96546C4CA7D6}|DeadLock\u0026LiveLock\\DeadLock\u0026LiveLock.vcxproj|solutionrelative:DeadLock\u0026LiveLock\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\DeadLock\u0026LiveLock\\DeadLock\u0026LiveLock\\Src\\Source.cpp",
+              "RelativeDocumentMoniker": "DeadLock\u0026LiveLock\\Src\\Source.cpp",
+              "ToolTip": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\DeadLock\u0026LiveLock\\DeadLock\u0026LiveLock\\Src\\Source.cpp",
+              "RelativeToolTip": "DeadLock\u0026LiveLock\\Src\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-20T01:38:28.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

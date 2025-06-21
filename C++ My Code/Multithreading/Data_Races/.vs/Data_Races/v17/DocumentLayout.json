@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Data_Races\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3973B89-0C54-4011-806B-66CD453FDB7B}|Data_Races\\Data_Races.vcxproj|D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Data_Races\\Data_Races\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3973B89-0C54-4011-806B-66CD453FDB7B}|Data_Races\\Data_Races.vcxproj|solutionrelative:Data_Races\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Data_Races\\Data_Races\\Src\\Source.cpp",
+              "RelativeDocumentMoniker": "Data_Races\\Src\\Source.cpp",
+              "ToolTip": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Data_Races\\Data_Races\\Src\\Source.cpp",
+              "RelativeToolTip": "Data_Races\\Src\\Source.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T23:03:28.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Atomic_Types\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4926A19A-E6FE-4328-AD59-7450DB395669}|Atomic_Types\\Atomic_Types.vcxproj|D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Atomic_Types\\Atomic_Types\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4926A19A-E6FE-4328-AD59-7450DB395669}|Atomic_Types\\Atomic_Types.vcxproj|solutionrelative:Atomic_Types\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Atomic_Types\\Atomic_Types\\Src\\Source.cpp",
+              "RelativeDocumentMoniker": "Atomic_Types\\Src\\Source.cpp",
+              "ToolTip": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Atomic_Types\\Atomic_Types\\Src\\Source.cpp",
+              "RelativeToolTip": "Atomic_Types\\Src\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-20T21:05:54.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Thread_Sync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB40C19-8B02-45FB-BA63-190731BBE638}|Thread_Sync\\Thread_Sync.vcxproj|D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Thread_Sync\\Thread_Sync\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CB40C19-8B02-45FB-BA63-190731BBE638}|Thread_Sync\\Thread_Sync.vcxproj|solutionrelative:Thread_Sync\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Thread_Sync\\Thread_Sync\\Src\\Source.cpp",
+              "RelativeDocumentMoniker": "Thread_Sync\\Src\\Source.cpp",
+              "ToolTip": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Thread_Sync\\Thread_Sync\\Src\\Source.cpp",
+              "RelativeToolTip": "Thread_Sync\\Src\\Source.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-20T02:29:02.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
