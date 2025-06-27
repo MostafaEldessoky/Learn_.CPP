@@ -1,0 +1,15 @@
+﻿  Source.cpp
+D:\Dev\Game Dev\C++ My Code\Multithreading\Parallel_For_Each\Parallel_For_Each\Src\Feach.h(12,44): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Src/Source.cpp')
+      D:\Dev\Game Dev\C++ My Code\Multithreading\Parallel_For_Each\Parallel_For_Each\Src\Feach.h(12,44):
+      the template instantiation context (the oldest one first) is
+          D:\Dev\Game Dev\C++ My Code\Multithreading\Parallel_For_Each\Parallel_For_Each\Src\Source.cpp(13,2):
+          see reference to function template instantiation 'void forEach<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,main::<lambda_1>>(I,I,F)' being compiled
+          with
+          [
+              _Ty=int,
+              I=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              F=main::<lambda_1>
+          ]
+  
+  Parallel_For_Each.vcxproj -> D:\Dev\Game Dev\C++ My Code\Multithreading\Parallel_For_Each\bin\x64\Debug\Parallel_For_Each.exe

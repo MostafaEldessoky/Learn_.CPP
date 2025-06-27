@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Execution_Policies\\",
+  "WorkspaceRootPath": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Execution_Policies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88C5DECD-3F43-49AA-8324-DF18DC6E3E5A}|Execution_Policies\\Execution_Policies.vcxproj|D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Execution_Policies\\Execution_Policies\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{88C5DECD-3F43-49AA-8324-DF18DC6E3E5A}|Execution_Policies\\Execution_Policies.vcxproj|D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Execution_Policies\\Execution_Policies\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{88C5DECD-3F43-49AA-8324-DF18DC6E3E5A}|Execution_Policies\\Execution_Policies.vcxproj|solutionrelative:Execution_Policies\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -13,29 +13,35 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 197,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 295,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b31fdcc9-9133-59e6-a7d4-f89e6ffe9f5d}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Execution_Policies\\Execution_Policies\\Src\\Source.cpp",
+              "DocumentMoniker": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Execution_Policies\\Execution_Policies\\Src\\Source.cpp",
               "RelativeDocumentMoniker": "Execution_Policies\\Src\\Source.cpp",
-              "ToolTip": "D:\\Programming\\GameDev\\Learn C\u002B\u002B\\C\u002B\u002B My Code\\Multithreading\\Execution_Policies\\Execution_Policies\\Src\\Source.cpp",
+              "ToolTip": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Execution_Policies\\Execution_Policies\\Src\\Source.cpp",
               "RelativeToolTip": "Execution_Policies\\Src\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-21T20:00:08.798Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b31fdcc9-9133-59e6-a7d4-f89e6ffe9f5d}"
             }
           ]
         }

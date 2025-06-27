@@ -1,0 +1,99 @@
+﻿  Source.cpp
+D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Quick.h(81,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Src/Source.cpp')
+      D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Quick.h(81,47):
+      the template instantiation context (the oldest one first) is
+          D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Source.cpp(6,19):
+          see reference to class template instantiation 'Quick<int,7>' being compiled
+          D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Quick.h(80,45):
+          while compiling class template member function 'std::array<T,7> Quick<T,7>::sort(void)'
+          with
+          [
+              T=int
+          ]
+              D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Source.cpp(7,9):
+              see the first reference to 'Quick<int,7>::sort' in 'main'
+  
+D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Quick.h(63,8): warning C4858: discarding return value: The result of 'std::async' should be stored in a variable. If the return value is discarded, the temporary 'std::future' is destroyed, waiting for an async result or evaluating a deferred result, thus defeating the purpose of 'std::async'.
+  (compiling source file 'Src/Source.cpp')
+      D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Quick.h(63,8):
+      the template instantiation context (the oldest one first) is
+          D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Source.cpp(6,21):
+          see reference to function template instantiation 'Quick<int,7>::Quick<int,int,int,int,int,int,int>(int,int,int,int,int,int,int)' being compiled
+              D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Source.cpp(6,21):
+              see the first reference to 'Quick<int,7>::Quick' in 'main'
+          D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Quick.h(28,80):
+          while compiling class template member function 'std::array<T,7> Quick<T,7>::pivoit(int,int,bool)'
+          with
+          [
+              T=int
+          ]
+              D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Quick.h(81,2):
+              see the first reference to 'Quick<int,7>::pivoit' in 'Quick<int,7>::sort'
+              D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Source.cpp(7,9):
+              see the first reference to 'Quick<int,7>::sort' in 'main'
+  
+D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Quick.h(67,8): warning C4858: discarding return value: The result of 'std::async' should be stored in a variable. If the return value is discarded, the temporary 'std::future' is destroyed, waiting for an async result or evaluating a deferred result, thus defeating the purpose of 'std::async'.
+  (compiling source file 'Src/Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(1686,77): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  (compiling source file 'Src/Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(1686,77):
+      the template instantiation context (the oldest one first) is
+          D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Quick.h(28,80):
+          while compiling class template member function 'std::array<T,7> Quick<T,7>::pivoit(int,int,bool)'
+          with
+          [
+              T=int
+          ]
+              D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Quick.h(81,2):
+              see the first reference to 'Quick<int,7>::pivoit' in 'Quick<int,7>::sort'
+              D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Source.cpp(7,9):
+              see the first reference to 'Quick<int,7>::sort' in 'main'
+          D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\Paralle_Quick_Sort\Src\Quick.h(67,8):
+          see reference to function template instantiation 'std::future<std::array<T,7>> std::async<std::array<T,7>(__cdecl Quick<T,7>::* )(int,int,bool),Quick<T,7>*,int&,std::array<T,7>::size_type,bool>(std::launch,_Fty &&,Quick<T,7> *&&,int &,std::array<T,7>::size_type &&,bool &&)' being compiled
+          with
+          [
+              T=int,
+              _Fty=std::array<int,7> (__cdecl Quick<int,7>::* )(int,int,bool)
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\future(1368,96):
+          see reference to class template instantiation 'std::_Fake_no_copy_callable_adapter<std::array<T,7> (__cdecl Quick<T,7>::* )(int,int,bool),Quick<T,7> *,int &,std::array<T,7>::size_type,bool>' being compiled
+          with
+          [
+              T=int
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\future(1341,20):
+          while compiling class template member function 'std::array<T,7> std::_Fake_no_copy_callable_adapter<std::array<T,7> (__cdecl Quick<T,7>::* )(int,int,bool),Quick<T,7> *,int &,std::array<T,7>::size_type,bool>::operator ()(void)'
+          with
+          [
+              T=int
+          ]
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(1767,63):
+              see the first reference to 'std::_Fake_no_copy_callable_adapter<std::array<T,7> (__cdecl Quick<T,7>::* )(int,int,bool),Quick<T,7> *,int &,std::array<T,7>::size_type,bool>::operator ()'
+          with
+          [
+              T=int
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\future(1342,16):
+          see reference to function template instantiation 'std::array<T,7> std::_Invoke_stored<std::array<T,7>(__cdecl Quick<T,7>::* )(int,int,bool),Quick<T,7>*,int,unsigned __int64,bool>(std::tuple<std::array<T,7> (__cdecl Quick<T,7>::* )(int,int,bool),Quick<T,7> *,int,unsigned __int64,bool> &&)' being compiled
+          with
+          [
+              T=int
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\future(1315,12):
+          see reference to function template instantiation 'std::array<T,7> std::_Invoke_stored_explicit<std::array<T,7>(__cdecl Quick<T,7>::* )(int,int,bool),Quick<T,7>*,int,unsigned __int64,bool,0,1,2,3,4>(std::tuple<std::array<T,7> (__cdecl Quick<T,7>::* )(int,int,bool),Quick<T,7> *,int,unsigned __int64,bool> &&,std::integer_sequence<size_t,0,1,2,3,4>)' being compiled
+          with
+          [
+              T=int
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\future(1310,17):
+          see reference to function template instantiation 'std::array<T,7> std::invoke<std::array<T,7>(__cdecl Quick<T,7>::* )(int,int,bool),Quick<T,7>*,int,unsigned __int64,bool>(_Callable &&,_Ty1 &&,int &&,unsigned __int64 &&,bool &&) noexcept(false)' being compiled
+          with
+          [
+              T=int,
+              _Callable=std::array<int,7> (__cdecl Quick<int,7>::* )(int,int,bool),
+              _Ty1=Quick<int,7> *
+          ]
+  
+  Paralle_Quick_Sort.vcxproj -> D:\Dev\Game Dev\C++ My Code\Multithreading\Paralle_Quick_Sort\bin\x64\Debug\Paralle_Quick_Sort.exe

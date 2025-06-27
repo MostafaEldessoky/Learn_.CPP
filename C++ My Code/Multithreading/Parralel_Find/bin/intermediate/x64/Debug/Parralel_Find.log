@@ -1,0 +1,15 @@
+﻿  Source.cpp
+D:\Dev\Game Dev\C++ My Code\Multithreading\Parralel_Find\Parralel_Find\Src\Find.h(11,40): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Src/Source.cpp')
+      D:\Dev\Game Dev\C++ My Code\Multithreading\Parralel_Find\Parralel_Find\Src\Find.h(11,40):
+      the template instantiation context (the oldest one first) is
+          D:\Dev\Game Dev\C++ My Code\Multithreading\Parralel_Find\Parralel_Find\Src\Source.cpp(12,11):
+          see reference to function template instantiation 'I PFind<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int>(I,I,T)' being compiled
+          with
+          [
+              I=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Ty=int,
+              T=int
+          ]
+  
+  Parralel_Find.vcxproj -> D:\Dev\Game Dev\C++ My Code\Multithreading\Parralel_Find\bin\x64\Debug\Parralel_Find.exe

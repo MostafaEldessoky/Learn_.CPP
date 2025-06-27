@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Parallel_Matrix_Operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1381060-1365-4BB2-87EA-737F2B16A8CD}|Parallel_Matrix_Operations\\Parallel_Matrix_Operations.vcxproj|D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Parallel_Matrix_Operations\\Parallel_Matrix_Operations\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1381060-1365-4BB2-87EA-737F2B16A8CD}|Parallel_Matrix_Operations\\Parallel_Matrix_Operations.vcxproj|solutionrelative:Parallel_Matrix_Operations\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1381060-1365-4BB2-87EA-737F2B16A8CD}|Parallel_Matrix_Operations\\Parallel_Matrix_Operations.vcxproj|D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Parallel_Matrix_Operations\\Parallel_Matrix_Operations\\Src\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1381060-1365-4BB2-87EA-737F2B16A8CD}|Parallel_Matrix_Operations\\Parallel_Matrix_Operations.vcxproj|solutionrelative:Parallel_Matrix_Operations\\Src\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b31fdcc9-9133-59e6-a7d4-f89e6ffe9f5d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrix.h",
+              "DocumentMoniker": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Parallel_Matrix_Operations\\Parallel_Matrix_Operations\\Src\\Matrix.h",
+              "RelativeDocumentMoniker": "Parallel_Matrix_Operations\\Src\\Matrix.h",
+              "ToolTip": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Parallel_Matrix_Operations\\Parallel_Matrix_Operations\\Src\\Matrix.h",
+              "RelativeToolTip": "Parallel_Matrix_Operations\\Src\\Matrix.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-26T20:25:22.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Parallel_Matrix_Operations\\Parallel_Matrix_Operations\\Src\\Source.cpp",
+              "RelativeDocumentMoniker": "Parallel_Matrix_Operations\\Src\\Source.cpp",
+              "ToolTip": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Parallel_Matrix_Operations\\Parallel_Matrix_Operations\\Src\\Source.cpp",
+              "RelativeToolTip": "Parallel_Matrix_Operations\\Src\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T20:25:06.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

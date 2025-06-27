@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Thread_Safe_Stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A941AC-6001-4D0E-BE9E-2DA7A6337408}|Thread_Safe_Stack\\Thread_Safe_Stack.vcxproj|D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Thread_Safe_Stack\\Thread_Safe_Stack\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69A941AC-6001-4D0E-BE9E-2DA7A6337408}|Thread_Safe_Stack\\Thread_Safe_Stack.vcxproj|solutionrelative:Thread_Safe_Stack\\Src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A941AC-6001-4D0E-BE9E-2DA7A6337408}|Thread_Safe_Stack\\Thread_Safe_Stack.vcxproj|D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Thread_Safe_Stack\\Thread_Safe_Stack\\Src\\CStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69A941AC-6001-4D0E-BE9E-2DA7A6337408}|Thread_Safe_Stack\\Thread_Safe_Stack.vcxproj|solutionrelative:Thread_Safe_Stack\\Src\\CStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A941AC-6001-4D0E-BE9E-2DA7A6337408}|Thread_Safe_Stack\\Thread_Safe_Stack.vcxproj|D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Thread_Safe_Stack\\Thread_Safe_Stack\\Src\\CNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69A941AC-6001-4D0E-BE9E-2DA7A6337408}|Thread_Safe_Stack\\Thread_Safe_Stack.vcxproj|solutionrelative:Thread_Safe_Stack\\Src\\CNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CNode.h",
+              "DocumentMoniker": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Thread_Safe_Stack\\Thread_Safe_Stack\\Src\\CNode.h",
+              "RelativeDocumentMoniker": "Thread_Safe_Stack\\Src\\CNode.h",
+              "ToolTip": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Thread_Safe_Stack\\Thread_Safe_Stack\\Src\\CNode.h",
+              "RelativeToolTip": "Thread_Safe_Stack\\Src\\CNode.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-24T22:51:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b31fdcc9-9133-59e6-a7d4-f89e6ffe9f5d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CStack.h",
+              "DocumentMoniker": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Thread_Safe_Stack\\Thread_Safe_Stack\\Src\\CStack.h",
+              "RelativeDocumentMoniker": "Thread_Safe_Stack\\Src\\CStack.h",
+              "ToolTip": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Thread_Safe_Stack\\Thread_Safe_Stack\\Src\\CStack.h",
+              "RelativeToolTip": "Thread_Safe_Stack\\Src\\CStack.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-24T22:52:11.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Thread_Safe_Stack\\Thread_Safe_Stack\\Src\\Source.cpp",
+              "RelativeDocumentMoniker": "Thread_Safe_Stack\\Src\\Source.cpp",
+              "ToolTip": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\Multithreading\\Thread_Safe_Stack\\Thread_Safe_Stack\\Src\\Source.cpp",
+              "RelativeToolTip": "Thread_Safe_Stack\\Src\\Source.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-24T22:51:20.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
