@@ -1,0 +1,6 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+D:\Dev\Game Dev\C++ My Code\OpenGl\Libs\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Dev\Game Dev\C++ My Code\OpenGl\Libs\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Dev\Game Dev\C++ My Code\OpenGl\OpenGL_intro\\bin\x64\Debug\OpenGL_intro.exe : fatal error LNK1120: 2 unresolved externals

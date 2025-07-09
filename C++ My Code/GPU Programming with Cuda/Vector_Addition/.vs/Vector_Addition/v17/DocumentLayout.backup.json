@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\GPU Programming with Cuda\\Vector_Addition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D13AB-A5A6-0E0E-DC65-83F03D39E52F}|Vector_Addition\\Vector_Addition.vcxproj|D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\GPU Programming with Cuda\\Vector_Addition\\Vector_Addition\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED9D13AB-A5A6-0E0E-DC65-83F03D39E52F}|Vector_Addition\\Vector_Addition.vcxproj|solutionrelative:Vector_Addition\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b31fdcc9-9133-59e6-a7d4-f89e6ffe9f5d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\GPU Programming with Cuda\\Vector_Addition\\Vector_Addition\\kernel.cu",
+              "RelativeDocumentMoniker": "Vector_Addition\\kernel.cu",
+              "ToolTip": "D:\\Dev\\Game Dev\\C\u002B\u002B My Code\\GPU Programming with Cuda\\Vector_Addition\\Vector_Addition\\kernel.cu",
+              "RelativeToolTip": "Vector_Addition\\kernel.cu",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-02T03:32:58.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

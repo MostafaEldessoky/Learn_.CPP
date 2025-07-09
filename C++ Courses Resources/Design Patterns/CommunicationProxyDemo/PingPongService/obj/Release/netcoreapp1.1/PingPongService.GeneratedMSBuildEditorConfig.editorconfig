@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = PingPongService
+build_property.ProjectDir = D:\Dev\Game Dev\C++ Courses Resources\Design Patterns\CommunicationProxyDemo\PingPongService\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
